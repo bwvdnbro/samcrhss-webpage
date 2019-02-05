@@ -1,0 +1,15 @@
+title: St Andrews Monte Carlo Radiation Hydrodynamics Summer School 2019
+author: Bert Vandenbroucke
+email: bv7@st-andrews.ac.uk
+description: Official web page for SAMCRHSS2019.
+baseurl: ""
+url: "http://www-star.st-and.ac.uk/samcss/"
+
+# Build settings
+markdown: kramdown
+compress_html:
+  clippings: all
+  comments: all
+
+sass:
+  style: compressed

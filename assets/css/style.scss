@@ -1,0 +1,19 @@
+---
+---
+
+/* Manually set the height of the navigation bar */
+.navbar {
+  height: 60px;
+}
+
+/* Add extra padding to the body to make sure the navbar floats on top */
+body {
+  padding-top: 60px;
+}
+
+/* Increase the height of the carousel */
+.carousel-item {
+  height: 200px;
+}
+
+@import "bootstrap";
