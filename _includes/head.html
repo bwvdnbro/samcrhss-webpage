@@ -3,6 +3,11 @@
   content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="{{ site.description }}">
 <meta name="author" content="{{ site.author }}">
+<link rel="icon" type="image/x-icon"
+      href="{{ '/assets/images/favicon.ico' | absolute_url }}">
+
 
 <!-- Include Bootstrap -->
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | absolute_url }}">
+<title>{% if page.link != 'Home' %}{{ page.link }} - {% endif %}
+{{ site.title }}</title>

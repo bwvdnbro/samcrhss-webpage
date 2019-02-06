@@ -3,12 +3,13 @@
 
 /* Manually set the height of the navigation bar */
 .navbar {
-  height: 60px;
+  min-height: 56px;
 }
 
 /* Add extra padding to the body to make sure the navbar floats on top */
 body {
-  padding-top: 60px;
+  padding-top: 56px;
+  background-image: url({{ '/assets/images/stars.png' | absolute_url }});
 }
 
 /* Increase the height of the carousel */
@@ -16,4 +17,41 @@ body {
   height: 200px;
 }
 
+.container img {
+  max-width: 100%;
+};
+
 @import "bootstrap";
+
+.custom-content {
+  min-height: 500px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.custom-content p {
+  text-align: justify;
+}
+
+.custom-content h1 {
+  color: $primary;
+  font-size: $font-size-base * 1.5;
+  font-weight: $font-weight-bold;
+}
+
+.custom-content h2 {
+  color: $secondary;
+  font-size: $font-size-base * 1.25;
+}
+
+.custom-content h3 {
+  color: $red;
+  font-size: $font-size-base;
+  font-style: italic;
+}
+
+.custom-map {
+  border: 0;
+  width: 100%;
+  max-width: 600px;
+  height: 480px;
+}
