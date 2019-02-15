@@ -12,7 +12,7 @@ Guest lecturers from medical physics will present applications of Monte Carlo te
 
 ## Registration
 
-Registration is currently not available.
+Registration is possible on the [registration page]({{ 'registration.html' | absolute_url }}).
 
 ## Costs
 
