@@ -1,7 +1,7 @@
 ---
 layout: page
 link: Preliminary schedule
-image: /assets/images/local.png
+image: /assets/images/schedule.png
 ---
 
 # Preliminary schedule
