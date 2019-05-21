@@ -24,12 +24,12 @@ Stagecoach website.
 
 ### Tram - train - bus
 
-Alternatively, you can also take a tram to the recently opened Edinburgh 
-Gateway train station (which is only 4 stops away). From there, take a 
-train (with final destination Aberdeen or Dundee) to Leuchars, and 
-continue as above. Note that Edinburgh Gateway offers less train 
-connections than Edinburgh Haymarket or Waverley, but if you have a good 
-connection, the journey is about 30 minutes shorter.
+Alternatively, you can also take a tram to the Edinburgh Gateway train 
+station (which is only 4 stops away). From there, take a train (with 
+final destination Aberdeen or Dundee) to Leuchars, and continue as 
+above. Note that Edinburgh Gateway offers less train connections than 
+Edinburgh Haymarket or Waverley, but if you have a good connection, the 
+journey is about 30 minutes shorter.
 
 ### Bus -bus
 
