@@ -51,13 +51,12 @@ station, or can be found at the Stagecoach website.
 
 ## By Road from the South
 
-After crossing the Forth Road Bridge (80p toll going north only), follow 
-the M90 to junction 8, then the the A91 east through Cupar to St 
-Andrews.
+After crossing the Queensferry Crossing, follow the M90 to junction 8, 
+then the A91 east through Cupar to St Andrews.
 
 ## By Road from the West
 
-After crossing the Kincardine Bridge, follow the A977 then M90 to 
+After crossing the Clackmannanshire Bridge, follow the A977 then M90 to 
 junction 8, then the A91 east through Cupar to St Andrews.
 
 ## By Road from the North

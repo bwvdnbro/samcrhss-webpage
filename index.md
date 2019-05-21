@@ -54,6 +54,10 @@ course.
 
 Non-STFC participants will have to pay a registration fee of &pound;700.
 
+**Note that we will take care of accommodation, meals and events for all 
+participants, both STFC funded and non-STFC funded. Participants only 
+need to book their travel to and from St Andrews.**
+
 ## Contact
 
 Email Kenny Wood - [kw25@st-andrews.ac.uk](mailto:kw25@st-andrews.ac.uk) - 
