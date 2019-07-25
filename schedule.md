@@ -1,43 +1,131 @@
 ---
 layout: page
-link: Preliminary schedule
+link: Schedule
 image: /assets/images/schedule.png
 ---
 
-# Preliminary schedule
+# Schedule
 
-Below is a preliminary schedule for the school. A more detailed schedule
-will be posted in due time.
+Below is the schedule for the school. Changes to this schedule are still 
+possible. Time slots are preliminary.
 
-Currently, the following people are scheduled to lecture (this list is preliminary and might change): Kenny Wood (St. Andrews), Tim
-Harries (Exeter), Barbara Ercolano (Munich), Antonia Bevan (UCL), Bert
-Vandenbroucke (St. Andrews), Stuart Sim (QUB), Michiel Hogerheijde
-(Leiden), Ollie Lomax (ESA), Kees Dullemond (Heidelberg), and Volker Bromm (Texas).
+## Monday 26/08
 
-Day 1:
-: Introduction to MCRT techniques (Wood &amp; Bevan)
-  sampling from probability distribution functions; scattering albedo
-  and phase functions; spherical and plane parallel isotropic
-  scattering codes; intensity moments &amp; radiation pressure; 3D linear
-  cartesian grid code. Afternoon tutorial sessions on MCRT.
+07.30 - 08.30
+: Breakfast at Agnes Blackadder Hall
 
-Day 2:
-: Introductory lectures on finite volume
-  hydrodynamics codes (Vandenbroucke); Sod shock test problem;
-  Kelvin-Helmholtz iinstabilities; writing a 3D hydro code in
-  Python. Radiation hydrodynamics (Harries, Bromm); massively
-  parallel computing
+09.00 - 11.00
+: Introduction to Monte Carlo radiation transfer - *Kenny Wood*
 
-Day 3:
-: Using rad hydro codes in your research (Wood,
-  Harries, Vandenbroucke, Sim, Lomax); talks on specific codes
+11.00 - 11.30
+: Coffee break
 
-Day 4:
-: Codes for producing synthetic observations
-  (Ercolano, Wood, Hogerheijde, Dullemond, Lomax). Radiative
-  equilibrium: reprocessing by gas and dust; techniques for optically
-  thin and thick regions; merging Monte Carlo with diffusion
-  techniques. Photoionization: ionization equilibrium and temperature
-  calculations within MCRT; atomic databases; x-rays and high energy
-  processes; effects of dust on H{\sc ii} regions. Non Local
-  Thermodynamic Equilibrium Line Transfer with velocity fields
+11.30 - 12.30
+: Title to be confirmed - *Antonia Bevan*
+
+12.30 - 13.30
+: Lunch
+
+13.30 - 15.30
+: Introduction to numerical hydrodynamics - *Bert Vandenbroucke*
+
+15.30
+: Coffee served
+
+15.30 - 17.30
+: Practical exercises and open session with lecturers on using codes
+
+19.00
+: Dinner at Lower College Hall
+
+## Tuesday 27/08
+
+07.30 - 08.30
+: Breakfast at Agnes Blackadder Hall
+
+09.00 - 11.00
+: Dynamical impact of radiation, introduction to TORUS - *Tim Harries*
+
+11.00 - 11.30
+: Coffee break
+
+11.30 - 12.30
+: Light curves and spectra for astrophysical explosions - *Stuart Sim*
+
+12.30 - 13.30
+: Lunch served
+
+13.30 - 15.30
+: Ly&alpha; radiative transfer, general RHD topics - *Aaron Smith*
+
+15.30
+: Coffee served
+
+15.30 - 17.30
+: Practical exercises and open session with lecturers on using codes
+
+19.00
+: Dinner and Whisky Tasting at Parliament Hall
+
+## Wednesday 28/08
+
+07.30 - 08.30
+: Breakfast at Agnes Blackadder Hall
+
+09.00 - 11.00
+: Introduction to RADMC-3D - *speaker to be confirmed*
+
+11.00 - 11.30
+: Coffee break
+
+11.30 - 12.30
+: Molecular line modelling with TORUS - *Tom Haworth*
+
+12.30 - 13.30
+: Lunch served
+
+13.30 - 15.30
+: Monte Carlo photoionization - *Kenny Wood*
+
+15.30
+: Coffee served
+
+15.30 - 17.30
+: Practical exercises and open session with lecturers on using codes
+
+19.00
+: Blown away + BBQ at West Sands
+
+## Thursday 29/08
+
+07.30 - 08.30
+: Breakfast at Agnes Blackadder Hall
+
+09.00 - 11.00
+: RHD algorithms for the exascale era - *Bert Vandenbroucke*
+
+11.00 - 11.30
+: Coffee break
+
+11.30 - 12.30
+: Medical applications of MCRT - *Lewis McMillan*
+
+12.30 - 13.30
+: Lunch served
+
+13.30 - 15.30
+: Confidence in academia - *Antonia Bevan*
+
+15.30
+: Coffee served
+
+15.30 - 17.30
+: Practical exercises and open session with lecturers on using codes
+
+19.00
+: Dinner at local restaurant
+
+## Friday 30/08
+
+07.30 - 08.30
+: Breakfast at Agnes Blackadder Hall

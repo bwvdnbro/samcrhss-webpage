@@ -5,7 +5,8 @@ description: >-
   Official web page for the St Andrews Monte Carlo Radiation Hydrodynamics
   Summer School 2019
 baseurl: ""
-url: "http://www-star.st-and.ac.uk/samcss/"
+url: "http://www-star.st-and.ac.uk/samcss"
+#url: "http://www-star.st-and.ac.uk/~bv7/summer_school"
 
 # Build settings
 markdown: kramdown
