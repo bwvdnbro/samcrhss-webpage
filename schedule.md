@@ -9,6 +9,11 @@ image: /assets/images/schedule.png
 Below is the schedule for the school. Changes to this schedule are still 
 possible. Time slots are preliminary.
 
+## Sunday 25/08
+
+18.00
+: Registration, welcome drinks and hot buffet at Medical Sciences
+
 ## Monday 26/08
 
 07.30 - 08.30

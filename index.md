@@ -36,11 +36,16 @@ numerical hydrodynamics simulations for modelling and interpreting high
 spatial resolution continuum and line observations from observatories 
 such as ALMA, VLT/SPHERE, VLTI.
 
+## Preliminary schedule
+
+A detailed [preliminary schedule]({{ 'schedule.html' | absolute_url }}) 
+is now available. This schedule is still subject to small changes.
+
 ## Registration
 
 Registration is possible on the [registration page]({{ 
-'registration.html' | absolute_url }}). Deadline for registration is
-**Friday 12 July 2019**.
+'registration.html' | absolute_url }}). While the official deadline for 
+registration has passed, we still accept applicants.
 
 ## Costs
 
