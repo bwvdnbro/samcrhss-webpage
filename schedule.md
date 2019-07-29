@@ -26,7 +26,7 @@ possible. Time slots are preliminary.
 : Coffee break
 
 11.30 - 12.30
-: Title to be confirmed - *Antonia Bevan*
+: Putting theory in practice: how to write an MCRT code - *Antonia Bevan*
 
 12.30 - 13.30
 : Lunch
@@ -84,7 +84,7 @@ possible. Time slots are preliminary.
 : Coffee break
 
 11.30 - 12.30
-: Molecular line modelling with TORUS - *Tom Haworth*
+: Simulating ALMA molecular line observations with TORUS and CASA - *Tom Haworth*
 
 12.30 - 13.30
 : Lunch served
