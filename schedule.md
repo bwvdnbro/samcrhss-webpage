@@ -106,8 +106,11 @@ possible. Time slots are preliminary.
 07.30 - 08.30
 : Breakfast at Agnes Blackadder Hall
 
-09.00 - 11.00
+09.00 - 10.00
 : RHD algorithms for the exascale era - *Bert Vandenbroucke*
+
+10.00 - 11.00
+: Title to be confirmed - *Tim Harries*
 
 11.00 - 11.30
 : Coffee break
