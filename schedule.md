@@ -61,7 +61,7 @@ possible. Time slots are preliminary.
 : Lunch served
 
 13.30 - 15.30
-: Ly&alpha; radiative transfer, general RHD topics - *Aaron Smith*
+: Ly&alpha; radiative transfer, general RHD topics - *Aaron Smith* ([lecture notes]({{ '/assets/documents/AaronSmith_lecture_notes.pdf' | absolute_url }}), [Python notebook 1]({{ '/assets/documents/AaronSmith_notebook_1.ipynb' | absolute_url }}), [Python notebook 2]({{ '/assets/documents/AaronSmith_notebook_2.ipynb' | absolute_url }}))
 
 15.30
 : Coffee served
@@ -77,8 +77,11 @@ possible. Time slots are preliminary.
 07.30 - 08.30
 : Breakfast at Agnes Blackadder Hall
 
-09.00 - 11.00
+09.00 - 10.00
 : Introduction to RADMC-3D - *speaker to be confirmed*
+
+10.00 - 11.00
+: Macro atom formalisms - *Stuart Sim*
 
 11.00 - 11.30
 : Coffee break
