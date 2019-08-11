@@ -43,9 +43,7 @@ is now available. This schedule is still subject to small changes.
 
 ## Registration
 
-Registration is possible on the [registration page]({{ 
-'registration.html' | absolute_url }}). While the official deadline for 
-registration has passed, we still accept applicants.
+Registration for the summer school has now closed.
 
 ## Costs
 

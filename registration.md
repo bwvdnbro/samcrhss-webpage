@@ -1,6 +1,6 @@
 ---
 layout: page
-link: Registration
+#link: Registration
 image: /assets/images/registration.png
 ---
 
