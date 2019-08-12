@@ -87,7 +87,7 @@ possible. Time slots are preliminary.
 : Coffee break
 
 11.30 - 12.30
-: Simulating ALMA molecular line observations with TORUS and CASA - *Tom Haworth*
+: Simulating ALMA molecular line observations with TORUS and CASA - *Tom Haworth* ([slides]({{ '/assets/documents/TomHaworth_slides.pdf' | absolute_url }}), [handouts]({{ '/assets/documents/TomHaworth_handouts.pdf' | absolute_url }}))
 
 12.30 - 13.30
 : Lunch served
