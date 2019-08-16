@@ -20,7 +20,7 @@ possible. Time slots are preliminary.
 : Breakfast at Agnes Blackadder Hall
 
 09.00 - 11.00
-: Introduction to Monte Carlo radiation transfer - *Kenny Wood*
+: Introduction to Monte Carlo radiation transfer - *Kenny Wood* ([slides]({{ '/assets/documents/KennyWood_scattering.pdf' | absolute_url }}), [exercises]({{ '/assets/documents/KennyWood_exercises.pdf' | absolute_url }}))
 
 11.00 - 11.30
 : Coffee break
@@ -69,8 +69,8 @@ possible. Time slots are preliminary.
 15.30 - 17.30
 : Practical exercises and open session with lecturers on using codes
 
-19.00
-: Dinner and Whisky Tasting at Parliament Hall
+18.30
+: Blown away + BBQ at West Sands
 
 ## Wednesday 28/08
 
@@ -93,7 +93,7 @@ possible. Time slots are preliminary.
 : Lunch served
 
 13.30 - 15.30
-: Monte Carlo photoionization - *Kenny Wood*
+: Monte Carlo photoionization - *Kenny Wood* ([slides]({{ '/assets/documents/KennyWood_ionization.pdf' | absolute_url }}))
 
 15.30
 : Coffee served
@@ -102,7 +102,7 @@ possible. Time slots are preliminary.
 : Practical exercises and open session with lecturers on using codes
 
 19.00
-: Blown away + BBQ at West Sands
+: Dinner and Whisky Tasting at Parliament Hall
 
 ## Thursday 29/08
 
