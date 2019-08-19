@@ -77,11 +77,8 @@ possible. Time slots are preliminary.
 07.30 - 08.30
 : Breakfast at Agnes Blackadder Hall
 
-09.00 - 10.00
+09.00 - 11.00
 : Introduction to RADMC-3D - *Kees Dullemond*
-
-10.00 - 11.00
-: Macro atom formalisms - *Stuart Sim*
 
 11.00 - 11.30
 : Coffee break
@@ -92,7 +89,10 @@ possible. Time slots are preliminary.
 12.30 - 13.30
 : Lunch served
 
-13.30 - 15.30
+13.30 - 14.30
+: Macro atom formalisms - *Stuart Sim*
+
+14.30 - 15.30
 : Monte Carlo photoionization - *Kenny Wood* ([slides]({{ '/assets/documents/KennyWood_ionization.pdf' | absolute_url }}))
 
 15.30
