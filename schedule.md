@@ -78,7 +78,7 @@ possible. Time slots are preliminary.
 : Breakfast at Agnes Blackadder Hall
 
 09.00 - 10.00
-: Introduction to RADMC-3D - *speaker to be confirmed*
+: Introduction to RADMC-3D - *Kees Dullemond*
 
 10.00 - 11.00
 : Macro atom formalisms - *Stuart Sim*
