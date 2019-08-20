@@ -110,10 +110,10 @@ possible. Time slots are preliminary.
 : Breakfast at Agnes Blackadder Hall
 
 09.00 - 10.00
-: RHD algorithms for the exascale era - *Bert Vandenbroucke*
+: Parallelisation with OpenMP and MPI - *Tim Harries*
 
 10.00 - 11.00
-: Title to be confirmed - *Tim Harries*
+: RHD algorithms for the exascale era - *Bert Vandenbroucke*
 
 11.00 - 11.30
 : Coffee break
@@ -124,8 +124,11 @@ possible. Time slots are preliminary.
 12.30 - 13.30
 : Lunch served
 
-13.30 - 15.30
+13.30 - 14.30
 : Confidence in academia - *Antonia Bevan*
+
+14.30 - 15.30
+: Open discussion
 
 15.30
 : Coffee served
