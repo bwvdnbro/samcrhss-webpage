@@ -66,10 +66,10 @@ possible. Time slots are preliminary.
 15.30
 : Coffee served
 
-15.30 - 17.30
+15.30 - 17.00
 : Practical exercises and open session with lecturers on using codes
 
-18.30
+18.00
 : Blown away + BBQ at West Sands
 
 ## Wednesday 28/08
