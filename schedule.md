@@ -32,7 +32,7 @@ possible. Time slots are preliminary.
 : Lunch
 
 13.30 - 15.30
-: Introduction to numerical hydrodynamics - *Bert Vandenbroucke*
+: Introduction to numerical hydrodynamics - *Bert Vandenbroucke* ([slides]({{ '/assets/documents/BertVandenbroucke_hydro_slides.pdf' | absolute_url }}), [exercise]({{ '/assets/documents/BertVandenbroucke_hydro_exercise.pdf' | absolute_url }}), [Riemann solver]({{ '/assets/documents/BertVandenbroucke_riemannsolver.py' | absolute_url }}), [analytic Sod solution]({{ '/assets/documents/BertVandenbroucke_sodshock_solution.py' | absolute_url }}))
 
 15.30
 : Coffee served
