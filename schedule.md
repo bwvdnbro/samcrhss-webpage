@@ -6,8 +6,7 @@ image: /assets/images/schedule.png
 
 # Schedule
 
-Below is the schedule for the school. Changes to this schedule are still 
-possible. Time slots are preliminary.
+Below is the schedule for the school.
 
 ## Sunday 25/08
 
@@ -26,7 +25,7 @@ possible. Time slots are preliminary.
 : Coffee break
 
 11.30 - 12.30
-: Putting theory in practice: how to write an MCRT code - *Antonia Bevan*
+: Putting theory in practice: how to write an MCRT code - *Antonia Bevan* ([slides]({{ '/assets/documents/AntoniaBevan_writing_MCRT.pdf' | absolute_url }}))
 
 12.30 - 13.30
 : Lunch
