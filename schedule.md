@@ -54,7 +54,7 @@ Below is the schedule for the school.
 : Coffee break
 
 11.30 - 12.30
-: Light curves and spectra for astrophysical explosions - *Stuart Sim*
+: Light curves and spectra for astrophysical explosions - *Stuart Sim* ([slides]({{ '/assets/documents/StuartSim_lightcurve_slides.pdf' | absolute_url }}), [C code]({{ '/assets/documents/StuartSim_lightcurve.c' | absolute_url }}))
 
 12.30 - 13.30
 : Lunch served
