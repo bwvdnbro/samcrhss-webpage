@@ -48,7 +48,7 @@ Below is the schedule for the school.
 : Breakfast at Agnes Blackadder Hall
 
 09.00 - 11.00
-: MCRT optimisation techniques, dynamical impact of radiation, introduction to TORUS - *Tim Harries* ([slides]({{ '/assets/documents/TimHarries_slides1.pdf' | absolute_url }}))
+: MCRT optimisation techniques, dynamical impact of radiation, introduction to TORUS - *Tim Harries* ([slides]({{ '/assets/documents/TimHarries_slides1.pdf' | absolute_url }}), [TORUS exercise](https://drive.google.com/drive/folders/1E9vxwux5bsbfja6f11DTUoyvS9j9Teit))
 
 11.00 - 11.30
 : Coffee break
