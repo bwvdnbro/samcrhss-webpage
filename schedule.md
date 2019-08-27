@@ -60,7 +60,7 @@ Below is the schedule for the school.
 : Lunch served
 
 13.30 - 15.30
-: Ly&alpha; radiative transfer, general RHD topics - *Aaron Smith* ([lecture notes]({{ '/assets/documents/AaronSmith_lecture_notes.pdf' | absolute_url }}), [Python notebook 1]({{ '/assets/documents/AaronSmith_notebook_1.ipynb' | absolute_url }}), [Python notebook 2]({{ '/assets/documents/AaronSmith_notebook_2.ipynb' | absolute_url }}))
+: Ly&alpha; radiative transfer, general RHD topics - *Aaron Smith* ([slides]({{ '/assets/documents/AaronSmith_slides.pdf' | absolute_url }}), [lecture notes]({{ '/assets/documents/AaronSmith_lecture_notes.pdf' | absolute_url }}), [Python notebook 1]({{ '/assets/documents/AaronSmith_notebook_1.ipynb' | absolute_url }}), [Python notebook 2]({{ '/assets/documents/AaronSmith_notebook_2.ipynb' | absolute_url }}))
 
 15.30
 : Coffee served
