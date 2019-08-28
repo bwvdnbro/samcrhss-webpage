@@ -89,7 +89,7 @@ Below is the schedule for the school.
 : Lunch served
 
 13.30 - 14.30
-: Macro atom formalisms - *Stuart Sim*
+: Macro atom formalisms - *Stuart Sim* ([slides]({{ '/assets/documents/StuartSim_spectra.pdf' | absolute_url }}))
 
 14.30 - 15.30
 : Monte Carlo photoionization - *Kenny Wood* ([slides]({{ '/assets/documents/KennyWood_ionization.pdf' | absolute_url }}))
