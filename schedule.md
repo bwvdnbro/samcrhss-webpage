@@ -77,7 +77,7 @@ Below is the schedule for the school.
 : Breakfast at Agnes Blackadder Hall
 
 09.00 - 11.00
-: Introduction to RADMC-3D - *Kees Dullemond*
+: Introduction to RADMC-3D - *Kees Dullemond* ([RADMC-3D slides]({{ '/assets/documents/KeesDullemond_RADMC3D.pdf' | absolute_url }}), [radiative transfer slides]({{ '/assets/documents/KeesDullemond_RT.pdf' | absolute_url }}))
 
 11.00 - 11.30
 : Coffee break
@@ -109,7 +109,7 @@ Below is the schedule for the school.
 : Breakfast at Agnes Blackadder Hall
 
 09.00 - 10.00
-: Parallelisation with OpenMP and MPI - *Tim Harries*
+: Parallelisation with OpenMP and MPI - *Tim Harries* ([slides]({{ '/assets/documents/TimHarries_slides2.pdf' | absolute_url }}), [exercises](https://drive.google.com/drive/folders/1E9vxwux5bsbfja6f11DTUoyvS9j9Teit))
 
 10.00 - 11.00
 : RHD algorithms for the exascale era - *Bert Vandenbroucke*
