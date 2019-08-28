@@ -112,7 +112,7 @@ Below is the schedule for the school.
 : Parallelisation with OpenMP and MPI - *Tim Harries* ([slides]({{ '/assets/documents/TimHarries_slides2.pdf' | absolute_url }}), [exercises](https://drive.google.com/drive/folders/1E9vxwux5bsbfja6f11DTUoyvS9j9Teit))
 
 10.00 - 11.00
-: RHD algorithms for the exascale era - *Bert Vandenbroucke*
+: RHD algorithms for the exascale era - *Bert Vandenbroucke* ([slides]({{ '/assets/documents/BertVandenbroucke_exascale.pdf' | absolute_url }}))
 
 11.00 - 11.30
 : Coffee break
