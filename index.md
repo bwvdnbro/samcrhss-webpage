@@ -52,8 +52,10 @@ the STFC, including travel by rail to St Andrews from within the UK,
 five nights accommodation, delegate fees, and meals and events.
 
 STFC funded participants wanting to claim back their travel expenses can 
-fill out an STFC claim form that will posted on this web page in due 
-course.
+fill out the [STFC claim form]({{ 
+'/assets/documents/STFC_expense_claim_form.xlsx' | absolute_url }}), 
+sign it, and then send a scan of the form and receipts to 
+<studentships@stfc.ukri.org>.
 
 Non-STFC participants will have to pay a registration fee of &pound;700.
 
