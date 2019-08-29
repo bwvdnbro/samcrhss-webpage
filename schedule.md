@@ -136,7 +136,7 @@ Below is the schedule for the school.
 : Practical exercises and open session with lecturers on using codes
 
 19.00
-: Dinner at local restaurant
+: Dinner at Jahangir
 
 ## Friday 30/08
 
