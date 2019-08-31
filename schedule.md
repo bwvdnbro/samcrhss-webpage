@@ -124,7 +124,7 @@ Below is the schedule for the school.
 : Lunch served
 
 13.30 - 14.30
-: Confidence in academia - *Antonia Bevan*
+: Confidence in academia - *Antonia Bevan* ([slides]({{ '/assets/documents/AntoniaBevan_confidence.pdf' | absolute_url }}))
 
 14.30 - 15.30
 : Open discussion
